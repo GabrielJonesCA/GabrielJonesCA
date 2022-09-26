@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on exciting video games!
 - 
 - ✨ Here is my Portfolio!
-- https://gwjonesss.github.io/Gabriel-Jones-Portfolio/
+- https://GabrielJonesCA.github.io/Gabriel-Jones-Portfolio/
 - 
 - 📫 How to reach me  @LinkedIn
 - https://www.linkedin.com/in/gabriel-jones-07554bb2/
