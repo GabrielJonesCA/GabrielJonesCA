@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @GabrielJonesCA
 - 👀 I’m interested in Game Development and Python Projects
-- 🌱 I’m currently learning at The Tech Academy 
-- 💞️ I’m looking to collaborate on exciting video games or Python Software!
+- 🌱 I graduated from The Tech Academy Game Development Bootcamp
+- and continue my learning of Software Development with projects you can see
+- on the GitHub
+- 💞️ I’m looking to collaborate on exciting video games, mobile apps,
+- and web development projects!
 - 
 - ✨ Here is my Portfolio!
 - https://GabrielJonesCA.github.io/Gabriel-Jones-Portfolio/
