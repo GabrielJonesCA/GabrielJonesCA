@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development and Python Projects
 - 🌱 I graduated from The Tech Academy Game Development Bootcamp
 - and continue my learning of Software Development with projects you can see
-- on the GitHub
+- on this GitHub
 - 💞️ I’m looking to collaborate on exciting video games, mobile apps,
 - and web development projects!
 - 
